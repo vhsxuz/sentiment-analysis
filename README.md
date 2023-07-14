@@ -34,3 +34,6 @@ After training and testing the model, the prediction results of the model are ev
 	Based on the results that have been obtained, we evaluate whether the accuracy value that has been obtained has reached the level set as the minimum standard, which is 85%. As a result, the model we have created has reached the minimum standard with an accuracy value of 87.128% with the confusion matrix results as follows.
 
  <img src="matrix.png" />
+
+ ## Conclusion
+ Twitter is a large source of data, with information taken from tweets made by each person. Thousands of tweets analyzed for each company by the researchers showed that Apple, Amazon, Nvidia, Meta, and Microsoft do not have the potential for stock increases because they have a higher negative sentiment value than positive sentiment, while Tesla is the only company that has the least possibility of decreasing stock value because it has almost the same positive sentiment value compared to negative sentiment value.
